@@ -23,7 +23,6 @@
   ],
   "dependencies": {
     "angular": ">= 1.1.5",
-    "waypoints": "~2.0.3",
     "SHA-1": "*"
   },
   "devDependencies": {
